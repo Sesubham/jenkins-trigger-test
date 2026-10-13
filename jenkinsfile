@@ -5,6 +5,7 @@ pipeline {
             steps {
                 echo 'Building the project'
                 echo 'Project built successfully'
+                echo 'trigger with webhook'
             }
         }
     }
